@@ -23,13 +23,13 @@ repository: ShawnTeoh/matjek
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/ShawnTeoh"
-user: "John Doe"
-user_email: "john@doe.com"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
-disqus_shortname: "matjek"
+github_profile: "https://github.com/jiseop9083"
+user: "jiseop9083"
+user_email: "sinphi03@gmail.com"
+contact_url: ""
+google_tracking_id: "G-XTRDHKHP3F"
+google_site_verification: "G-XTRDHKHP3F"
+disqus_shortname: "sineta01"
 
 # Build settings
 markdown: kramdown
